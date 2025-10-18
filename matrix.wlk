@@ -8,7 +8,7 @@ object neo{
 
 object morfeo{
     var vitalidad = 8;
-    var estaDescansado = true;
+    var estaDescansado = false;
     
     method esElElegido() = false;
 
